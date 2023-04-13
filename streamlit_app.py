@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 import requests
-import snowflake.connector
+import requirements.snowflake.connector
 
 streamlit.title('My parents new healthy diner')
 streamlit.text('Prove Text')
