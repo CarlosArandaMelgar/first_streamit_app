@@ -1,5 +1,5 @@
 import streamlit
-importar pandas
+import pandas
 
 streamlit.title('My parents new healthy diner')
 streamlit.text('Prove Text')
